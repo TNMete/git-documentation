@@ -1,3 +1,15 @@
 # Meine Git-Dokumentation
 
-## hier folgt in kürze Text
+```HTML
+
+In dieser Git-Dokumentation werden folgende Begriffe erklärt:
+
+ - GitHub
+ - Git
+ - Branch
+ - Commit
+ - Push
+ - Pull
+ - Repository
+
+```
